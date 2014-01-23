@@ -1,4 +1,3 @@
-/*
 //=========================================
 // Name: Daniel Jordan
 // Email: daniel_jordan@csu.fullerton.edu
@@ -52,6 +51,7 @@ int main()
 		cin.ignore();
 	}
 	return 0;
+}
 
 /*OUTPUT
 Enter a sentence: is this a palindrome?
