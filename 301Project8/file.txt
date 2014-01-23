@@ -1,0 +1,6 @@
+20  Reagan,Ron 121.55
+30  Clinton,Bill 300.3
+40  Bush,Barbara 525.76
+50  Carter,Jimmy 500.5
+60  Bush,George 600.6
+90  Obama,Barack 900.9
