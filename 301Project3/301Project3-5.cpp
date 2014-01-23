@@ -1,4 +1,3 @@
-/*
 //=========================================
 // Name: Daniel Jordan
 // Email: daniel_jordan@csu.fullerton.edu
